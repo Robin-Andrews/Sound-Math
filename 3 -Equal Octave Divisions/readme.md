@@ -5,7 +5,7 @@
 * Geometric Progressions
 * Typing
 
-Normally in Western music, an octave is divided into 12 equal parts, represented by the geometric progression with a = 1 and r = 2^(1/12). It is geometric rather than arithmetic (revision needed?) beacuse the human ear perceives pitch exponentially. 
+Normally in Western music, an octave is divided into 12 equal parts, represented by the geometric progression with a = 1 and r = 2^(1/12). It is geometric rather than arithmetic (revision needed?) because the human ear perceives pitch exponentially. 
 
 Twelve even steps is not the only way to divide an octave. Alternative tunings are a big topic, but we can start fairly simply using Jyton Music and a little maths to do with powers and roots...
 

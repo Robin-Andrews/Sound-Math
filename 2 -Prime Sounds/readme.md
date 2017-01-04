@@ -18,5 +18,6 @@ The track was made using Jython Music which is a completely free, open source pr
 
 ## Exercises
 * Play with the code and make some changes. E.g speed up the pattern, or choose different pitches
+* Without looking at the code here, try to write your own function to test if a number is prime. Try it with large numbers, like 1,000,000. Is your function fast? Can it be improved? Discuss with friends and research.
 * Can you think of other ways to sonify the prime numbers?
 * Research Twin Primes

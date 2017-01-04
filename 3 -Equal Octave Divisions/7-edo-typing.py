@@ -12,7 +12,7 @@ d = Display("ET-7 Keyboard", 300, 200)
 virtualKeys = [VK_A, VK_S, VK_D, VK_F, VK_J, VK_K, VK_L, VK_SEMICOLON]
 channels = range(8)
 
-# Create pitches - this is the forumla for 7-tone equal temperment
+# Create pitches - this is the formula for 7-tone equal temperament
 a = 2 ** (1/7.0)
 pitches = [261.6 * (a ** n) for n in range(8)]
 
